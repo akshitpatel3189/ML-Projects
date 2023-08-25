@@ -1,0 +1,3 @@
+The IMDB movie reviews dataset:
+For sentiment analysis and the SemEval-2018:   https://ai.stanford.edu/~amaas/data/sentiment/
+Affect in Tweets dataset for emotion classification:    https://competitions.codalab.org/competitions/17751
